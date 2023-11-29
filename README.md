@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vinicius, but you also can call me Abby. I'm python and CyberSecurity Student and lover.
+### Hi there 👋 I'm Vinicius, but you also can call me Abby. I'm python and CyberSecurity Student lover.
 
 Irei postar conteudos relacionados a cybersecurity, como ferramentas, exploits, alguns programas de estudos, tudo sempre voltado ao fim academico, gosto de praticar e
 estudar praticando e tambem compartilhar isso!
