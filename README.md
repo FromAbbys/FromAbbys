@@ -1,7 +1,11 @@
-### Hi there 👋 I'm Vinicius, but you also can call me Abby. I'm python and CyberSecurity Student lover.
+### Hi there 👋 I'm Vinicius, but you also can call me Abby. I'm rust and CyberSecurity Student lover.
 
-Irei postar conteudos relacionados a cybersecurity, como ferramentas, exploits, alguns programas de estudos, tudo sempre voltado ao fim academico, gosto de praticar e
-estudar praticando e tambem compartilhar isso!
+- I really like studying
+- Like creating tools and malwares
+- Mostly cybersecurity stuff but some personal projects too
+- I have graduated in cybersecurity and for now am studying only.
+- Enjoy mostly offensive security stuff, but like learning new things
+- Sometimes try write some artics or study dumps in my blogs.
 
 <!--
 **FromAbbys/FromAbbys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
