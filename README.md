@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,python&theme=dark)](https://skillicons.dev)
 
 ##
 
