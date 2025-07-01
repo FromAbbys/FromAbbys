@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vinicius, but you also can call me Abby. I'm rust and CyberSecurity Student lover.
 
-- I really like studying
+- I really enjoy studying
 - Like creating tools and malwares
 - Mostly cybersecurity stuff but some personal projects too
 - I have graduated in cybersecurity and for now am studying only.
