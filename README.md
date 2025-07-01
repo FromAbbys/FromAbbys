@@ -31,11 +31,9 @@ Here are some ideas to get you started:
 Languages:
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Abyss-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
-<div style="display: inline_block"><br>
-   <img align="center" alt="Abyss-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/rust.svg" />
-</div>
+
 ##
 
 Social Medias:
