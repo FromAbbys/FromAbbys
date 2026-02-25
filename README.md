@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ##
 
 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b60577da-01f2-449b-be64-981e61cbd3bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 ##
